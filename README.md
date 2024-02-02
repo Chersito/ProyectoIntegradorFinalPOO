@@ -23,3 +23,5 @@ Ingresa a la carpeta [FinalProyectoIntegrador](https://github.com/Chersito/Proye
 ### ⚠️Cualquir problema con 💥el código💥 deja tu comentario en [Issues](https://github.com/Chersito/ProyectoIntegradorFinalPOO/issues) para buscar una solución 
 
 ---
+### 🔗 [Link Reporte en Studocu](https://www.studocu.com/es-mx/document/universidad-del-valle-de-mexico/programacion-orientada-a-objetos/a9-integrador-final/83245197)
+--- 
