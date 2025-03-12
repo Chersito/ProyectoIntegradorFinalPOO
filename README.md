@@ -1,5 +1,4 @@
 # Proyecto Integrador Final POO 💻
-### Deja una ⭐  allá 👆 si te fue de ayuda
 - Programa creado en Microsoft Visual Studio utilizando C++ <img align="left" alt="C++" width="22px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" />
 - Cumple con las condiciones de :
    * ✅ Herencia
@@ -17,10 +16,6 @@ Ingresa a la carpeta [FinalProyectoIntegrador](https://github.com/Chersito/Proye
 * Clase Hija Alumno -> [Alumno.h](https://github.com/Chersito/ProyectoIntegradorFinalPOO/blob/main/FinalProyectoIntegrador/Alumno.h), requiere de encabezado -> [Alumno.cpp](https://github.com/Chersito/ProyectoIntegradorFinalPOO/blob/main/FinalProyectoIntegrador/Alumno.cpp)
 *  Clase Hija Profesor -> [Profesor.h](https://github.com/Chersito/ProyectoIntegradorFinalPOO/blob/main/FinalProyectoIntegrador/Profesor.h), requiere de encabezado -> [Profesor.cpp](https://github.com/Chersito/ProyectoIntegradorFinalPOO/blob/main/FinalProyectoIntegrador/Profesor.cpp)
 * Clase Independiente Materia -> [Materia.h](https://github.com/Chersito/ProyectoIntegradorFinalPOO/blob/main/FinalProyectoIntegrador/Materia.h), requiere de encabezado -> [Materia.cpp](https://github.com/Chersito/ProyectoIntegradorFinalPOO/blob/main/FinalProyectoIntegrador/Materia.cpp)
-
----
-
-### ⚠️Cualquir problema con 💥el código💥 deja tu comentario en [Issues](https://github.com/Chersito/ProyectoIntegradorFinalPOO/issues) para buscar una solución 
 
 ---
 ### 🔗 [Link Reporte en Studocu](https://www.studocu.com/es-mx/document/universidad-del-valle-de-mexico/programacion-orientada-a-objetos/a9-integrador-final/83245197)
